@@ -41,7 +41,7 @@ public class SwaggerConfig {
 					.url("https://brazil.generation.org/"))
 				.contact(new Contact()
 					.name("Edenilson Nascimento")
-					.url("https://meublogdy.herokuapp.com/")
+					.url("https://blogpessoal-production.up.railway.app")
 					.email("edenilson.dy@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
